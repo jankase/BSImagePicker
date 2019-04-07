@@ -1,2 +1,2 @@
-github "mikaoj/BSImageView" ~> 1.0
-github "mikaoj/BSGridCollectionViewLayout" ~> 1.2
+github "jankase/BSImageView" "master"
+github "jankase/BSGridCollectionViewLayout" "master"
